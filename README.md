@@ -9,6 +9,8 @@ The following ket features were implemented in this project -
 * Hiding content from the public view
 * Building dynamic content navigation
 
+The WAMP stack consisting of Microsoft Windows operating system, Apache web server, OpenSSL for SSL support, MySQL database and PHP programming language was used to build this website.
+
 Few Visual Designs of the website are as follows:
 ![Screenshot from 2019-12-24 15-12-35-1](https://user-images.githubusercontent.com/8374949/71407673-b646d500-2661-11ea-9626-84268bb2b895.png)
 
