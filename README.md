@@ -12,3 +12,6 @@ The following ket features were implemented in this project -
 The screenshot of the landing page is as follows:
 ![Screenshot from 2019-12-24 15-12-35-1](https://user-images.githubusercontent.com/8374949/71407673-b646d500-2661-11ea-9626-84268bb2b895.png)
 
+![Screenshot from 2019-12-24 15-30-13](https://user-images.githubusercontent.com/8374949/71407921-72a09b00-2662-11ea-89d6-d83646a74e5f.png)
+
+
