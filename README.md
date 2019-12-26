@@ -1,4 +1,4 @@
-# Content management system using PHP
+# Content Management System using PHP
 This repository was created to learn the fundamentals of PHP with MySQL by developing
 real-world web applications namely a working content management system.
 This was done as a part as an individual project for an undergraduate course namely CSE 324(Internet and Web Programming) 
